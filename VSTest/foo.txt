@@ -2,3 +2,4 @@
 push from cli
 push from vs
 push w/o key
+test pull w/ update key required times
