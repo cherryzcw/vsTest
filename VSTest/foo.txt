@@ -1,4 +1,4 @@
 ﻿foo
 push from cli
 push from vs
-push without key
+push w/o key
